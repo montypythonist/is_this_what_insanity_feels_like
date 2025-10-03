@@ -10,8 +10,7 @@ public class calc{
         System.out.print("input a SECOND number... heh...: ");
         int num2 = input.nextInt(); 
         if (symbol == "+") {
-            System.out.println()
-
+            System.out.println(num1+num2);
         }
     }
 }
